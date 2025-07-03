@@ -17,6 +17,7 @@ This repository contains curated **Anki flashcard decks**, organized by subjects
 
 - [ ] Linear Algebra
 - [ ] Probability
+- [ ] Calculus
 
 > ⚠️ **Note:** Decks will be uploaded progressively. Stay tuned or follow the repository to get notified of updates.
 
